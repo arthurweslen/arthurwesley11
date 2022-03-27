@@ -1,18 +1,15 @@
 ### Oi, sou Arthur e trabalho com business intelligence  👋
 
-
 - 🌆 Atualmente trabalho no <b>cliente Petrobras</b>
 - 💻 Trabalho com <b>Microsoft Power BI</b>
 - 💻 Trabalho com <b>Microsoft Power Automate</b>
-- 💻 Trabalho com <b> Sharepoint</b>
-- 💻 Trabalho com <b> Primavera </b>
-- 💻 Entre outras ferramentas <i>(Sway, Pacote Office, transformação de dados e etc)</i>
+- 💻 Entre outras ferramentas <i>(Sway, Pacote Office, Sharepoint, Primavera, PowerQuery)</i>
 - 👨‍🎓 Estudando análise de dados com <b>Python</b> <i>(biblioteca Pandas, Numpy e Matplotlib)</i>
 
 <div align="center">
   <a href="https://github.com/arthurwesley11/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurwesley11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwesley11&layout=compact&langs_count=7&theme=dark"/>  
+  <img height="180em" Width="480em" src="https://github-readme-stats.vercel.app/api?username=arthurwesley11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" Width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwesley11&layout=compact&langs_count=7&theme=dracula"/>  
     
 </div>
   
