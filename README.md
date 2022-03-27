@@ -19,6 +19,6 @@
   <a href = "https://api.whatsapp.com/send?phone=5513981131823&text=Olá,%20Eu%20sou%20Arthur,%20em%20que%20posso%20ajudar?"> <img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href = "https://www.instagram.com/arthur.weslen/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
- <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/arthurwesley11/arthurwesley11/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
