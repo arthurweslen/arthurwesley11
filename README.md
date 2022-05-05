@@ -1,4 +1,4 @@
-### Oi, sou Arthur e trabalho com business intelligence  👋
+### Oi, sou Arthur e trabalho com Business Intelligence e Análise de dados 👋
 
 - 🌆 Atualmente trabalho no <b>cliente Petrobras</b>
 - 💻 Trabalho com <b>Microsoft Power BI</b>
